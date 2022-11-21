@@ -6,9 +6,6 @@ This is the >=terraform-0.12 branch. For compatibility with older versions, use 
 
 
 # Demo overview
-* 
-
-# Demo overview
 
 | Demo Directory      | Description                                                  |
 | ------------------- | ------------------------------------------------------------ |
